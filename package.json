@@ -1,0 +1,25 @@
+{
+  "name": "phillips-hue-motion-sensor-rest-api-healthcheck-lambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalvinlim/phillips-hue-motion-sensor-rest-api-healthcheck-lambda.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kalvinlim/phillips-hue-motion-sensor-rest-api-healthcheck-lambda/issues"
+  },
+  "homepage": "https://github.com/kalvinlim/phillips-hue-motion-sensor-rest-api-healthcheck-lambda#readme",
+  "dependencies": {
+    "aws-sdk": "^2.218.1",
+    "path": "^0.12.7",
+    "request": "^2.85.0",
+    "request-promise": "^4.2.2"
+  }
+}
